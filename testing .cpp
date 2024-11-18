@@ -3,8 +3,7 @@ using namespace std;
 int main()
 {
     cout<<"19998888888888";//1444446
-    
     cout<<"Magcian_testing";
-    cout<<"test11111133333333888883";
+    cout<<"test111111333333333";
     return 0;
 }
