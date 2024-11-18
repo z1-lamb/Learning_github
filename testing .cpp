@@ -6,5 +6,6 @@ int main()
     
     cout<<"Magcian_testing";
     cout<<"test11111111";
+    cout<<"test11111111";
     return 0;
 }
